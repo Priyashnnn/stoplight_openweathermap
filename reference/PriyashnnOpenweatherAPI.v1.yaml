@@ -17,7 +17,7 @@ servers:
 paths:
   /Weather:
     get:
-      summary: Your GET endpoint
+      summary: Weather
       tags:
         - weather endpoints
       operationId: get-Weather
